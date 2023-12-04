@@ -37,7 +37,5 @@ app.listen(port, () => {
 
 //-----------------------------
 //---s
-const xd ={
 
-}
-console.log("XD")
+
